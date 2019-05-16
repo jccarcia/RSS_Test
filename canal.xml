@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>PosNose</title>
+    <link>https://192.168.40.65</link>
+    <description>esto es una descripcion</description>
+    <language>en-us</language>
+    <managingEditor>YoMismo</managingEditor>
+    <copyright>YoMismo</copyright>
+    <item>
+      <title>google</title>
+      <pubDate>Thu, 2 May 2019 13:05:00 +0200</pubDate>
+      <link>https://www.google.es/</link>
+      <category>buscador</category>
+      <description><![CDATA[Best buscador eu west]]></description>
+    </item>
+  </channel>
+</rss>
